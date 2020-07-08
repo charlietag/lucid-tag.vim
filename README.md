@@ -1,4 +1,4 @@
-# lucid-tag.vim
+# lucid_tag.vim
 
 ## Description
 
@@ -8,9 +8,9 @@
 ## File structure
 
 ```bash
-lucid-tag.vim/
+lucid_tag.vim/
 └─── colors
-     └── lucid-tag.vim
+     └── lucid_tag.vim
 ```
 
 ## Installation
@@ -20,20 +20,20 @@ Then install this plugin using the your vim's plugin manager as follows:
 
 ### Pathogen
 ```
-git clone https://github.com/charlietag/lucid-tag.vim.git ~/.vim/bundle/lucid-tag.vim
+git clone https://github.com/charlietag/lucid_tag.vim.git ~/.vim/bundle/lucid_tag.vim
 ```
 
 ### Plug
 ```
-Plug 'charlietag/lucid-tag.vim'
+Plug 'charlietag/lucid_tag.vim'
 ```
 
 ### Dein.vim
 ```
-call dein#add('charlietag/lucid-tag.vim')
+call dein#add('charlietag/lucid_tag.vim')
 ```
 
 ### Vundle
 ```
-Plugin 'charlietag/lucid-tag.vim'
+Plugin 'charlietag/lucid_tag.vim'
 ```
