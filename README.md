@@ -2,7 +2,7 @@
 
 ## Description
 
-[Vim](http://www.vim.org/) plugin for setting coloscheme named "**lucid_tag**"
+[Vim](http://www.vim.org/) plugin for setting coloscheme named ***`lucid_tag`***
 
 
 ## File structure
