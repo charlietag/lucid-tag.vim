@@ -258,7 +258,7 @@ hi LineNr           ctermfg=darkgray             ctermbg=NONE
 "hi LineNr           ctermfg=101             ctermbg=238
 " match parenthesis, brackets
 hi MatchParen       guifg=#fd544e           guibg=NONE              gui=NONE
-hi MatchParen       ctermfg=46              ctermbg=NONE            cterm=NONE
+hi MatchParen       ctermfg=15              ctermbg=106            cterm=NONE
 " text showing what mode you are in
 hi MoreMsg          guifg=#2e8b57                                   gui=NONE
 hi MoreMsg          ctermfg=29                                      cterm=NONE
