@@ -234,8 +234,10 @@ hi SpellLocal                               ctermbg=14              cterm=underc
 
 " by laravel
 hi Cursor ctermfg=NONE ctermbg=231 cterm=NONE guifg=NONE guibg=#f8f8f0 gui=NONE
-hi CursorLine ctermfg=NONE ctermbg=237 cterm=NONE guifg=NONE guibg=#403e3d gui=NONE
-hi CursorColumn ctermfg=NONE ctermbg=237 cterm=NONE guifg=NONE guibg=#403e3d gui=NONE
+hi CursorLine ctermfg=NONE ctermbg=236 cterm=NONE guifg=NONE guibg=#403e3d gui=NONE
+hi CursorColumn ctermfg=NONE ctermbg=236 cterm=NONE guifg=NONE guibg=#403e3d gui=NONE
+" hi CursorLine ctermfg=NONE ctermbg=237 cterm=NONE guifg=NONE guibg=#403e3d gui=NONE
+" hi CursorColumn ctermfg=NONE ctermbg=237 cterm=NONE guifg=NONE guibg=#403e3d gui=NONE
 
 
 " Misc
@@ -268,9 +270,12 @@ hi ModeMsg          ctermfg=120             ctermbg=NONE            cterm=NONE
 " the 'more' prompt when output takes more than one line
 hi NonText          guifg=#444444
 "hi NonText          ctermfg=238                                     cterm=NONE
+
 " by laravel
 " Dark Gray
-hi NonText ctermfg=8 ctermbg=8 cterm=NONE guifg=#3b3a32 guibg=#373534 gui=NONE
+hi NonText ctermfg=236 ctermbg=236 cterm=NONE guifg=#3b3a32 guibg=#373534 gui=NONE
+" hi NonText ctermfg=8 ctermbg=8 cterm=NONE guifg=#3b3a32 guibg=#373534 gui=NONE
+
 " Light Gray
 " hi NonText ctermfg=59 ctermbg=59 cterm=NONE guifg=#3b3a32 guibg=#373534 gui=NONE
 
