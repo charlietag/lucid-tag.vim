@@ -269,7 +269,11 @@ hi ModeMsg          ctermfg=120             ctermbg=NONE            cterm=NONE
 hi NonText          guifg=#444444
 "hi NonText          ctermfg=238                                     cterm=NONE
 " by laravel
-hi NonText ctermfg=59 ctermbg=59 cterm=NONE guifg=#3b3a32 guibg=#373534 gui=NONE
+" Dark Gray
+hi NonText ctermfg=8 ctermbg=8 cterm=NONE guifg=#3b3a32 guibg=#373534 gui=NONE
+" Light Gray
+" hi NonText ctermfg=59 ctermbg=59 cterm=NONE guifg=#3b3a32 guibg=#373534 gui=NONE
+
 " the hit-enter prompt (show more output) and yes/no questions
 hi Question         guifg=fg                                        gui=NONE
 hi Question         ctermfg=fg                                      cterm=NONE
