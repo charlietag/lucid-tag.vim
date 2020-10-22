@@ -362,10 +362,12 @@ hi StatusLineNC     ctermfg=244             ctermbg=238             cterm=NONE
 " ---------
 " tab pages line, not active tab page label
 hi TabLine          guifg=#b6bf98           guibg=#181818           gui=NONE
-hi TabLine          ctermfg=244             ctermbg=233             cterm=NONE
+" hi TabLine          ctermfg=244             ctermbg=233             cterm=NONE
+hi TabLine          ctermfg=244             ctermbg=NONE             cterm=NONE
 " tab pages line, where there are no labels
 hi TabLineFill      guifg=#cfcfaf           guibg=#181818           gui=NONE
-hi TabLineFill      ctermfg=187             ctermbg=233             cterm=NONE
+" hi TabLineFill      ctermfg=187             ctermbg=233             cterm=NONE
+hi TabLineFill      ctermfg=187             ctermbg=NONE             cterm=NONE
 " tab pages line, active tab page label
 hi TabLineSel       guifg=#efefef           guibg=#1c1c1b           gui=NONE
 hi TabLineSel       ctermfg=233             ctermbg=187             cterm=NONE
